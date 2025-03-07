@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/phunuvietnam_8-3/static/css/main.d1f68042.css",
-    "main.js": "/phunuvietnam_8-3/static/js/main.f7ae36a2.js",
-    "static/js/453.9444bf89.chunk.js": "/phunuvietnam_8-3/static/js/453.9444bf89.chunk.js",
-    "index.html": "/phunuvietnam_8-3/index.html",
-    "main.d1f68042.css.map": "/phunuvietnam_8-3/static/css/main.d1f68042.css.map",
-    "main.f7ae36a2.js.map": "/phunuvietnam_8-3/static/js/main.f7ae36a2.js.map",
-    "453.9444bf89.chunk.js.map": "/phunuvietnam_8-3/static/js/453.9444bf89.chunk.js.map"
+    "main.css": "./static/css/main.d1f68042.css",
+    "main.js": "./static/js/main.b85dc943.js",
+    "static/js/453.9444bf89.chunk.js": "./static/js/453.9444bf89.chunk.js",
+    "index.html": "./index.html",
+    "main.d1f68042.css.map": "./static/css/main.d1f68042.css.map",
+    "main.b85dc943.js.map": "./static/js/main.b85dc943.js.map",
+    "453.9444bf89.chunk.js.map": "./static/js/453.9444bf89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1f68042.css",
-    "static/js/main.f7ae36a2.js"
+    "static/js/main.b85dc943.js"
   ]
 }
